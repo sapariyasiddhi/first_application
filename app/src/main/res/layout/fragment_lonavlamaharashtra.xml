@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".lonavlamaharashtra">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/mystyle"
+            android:layout_width="370dp"
+            android:layout_height="555dp"
+            android:text="If you have seen all hill stations in Gujarat, then it is time to head out to Lonavala. A popular hill station in Pune district of Maharashtra,
+ Lonavla offers beautiful spectacles of the lush greenery that enfolds this place. Well known for the production of hard candy Chikki,
+Lonavla’s proximity to Mumbai and Pune make it an all-time-favourite weekend getaway for the residents and tourists alike. Close to Lonavla
+is another hot favourite hill station Khandala that experiences a lot of footfall. Once there, you can explore the caves, fortresses of
+Lohagad and Visapur located close to Lonavla or take up the Andharban trek that will take you through the dense forests and waterfalls leading to
+ Bhira."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

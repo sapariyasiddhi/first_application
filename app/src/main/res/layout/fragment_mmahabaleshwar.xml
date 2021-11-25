@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Mmahabaleshwar">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/mystyle"
+            android:layout_width="370dp"
+            android:layout_height="555dp"
+
+            android:text="The largest hill station in the Sahyadri range of Maharashtra, Mahabaleshwar has a legendary past that relates to the Shiva Temple located in
+ Old Mahabaleshwar. With magnificent views of one of the evergreen forests in India, Mahabaleshwar is the originating point of River Krishna
+that flows across Maharashtra, and its four tributaries Koyna, Venna, Savitri and Gayatri that travel from the mouth of the statue of a cow
+at the Shiva Temple before merging into Krishna. Offering spectacular views of the mountains that surround this place, Mahabaleshwar is truly
+a paradise for all the nature lovers."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

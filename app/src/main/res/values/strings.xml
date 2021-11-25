@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">first_application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstImage">Toranmal – Beautiful Hill Station Near Gujarat
+An offbeat and less-crowded hill station located in the Nandurbar district of Maharashtra, approx. 379 km away from Gujarat Hill Station
+Toranmal  is a home to unparalleled natural beauty. Offering exquisite views of the verdant grasslands, hills, lakes, forests and waterfalls,
+Toranmal is inhabited by a variety of flora and fauna. The place is also famous for its Gorakhnath Temple, which is a popular pilgrimage
+sites during the grand festival of Maha Shivratri. To experience the natural beauty of Toranmal at its best, visit this place during
+September to March but avoid visiting it during the night as it is quite foggy here after dark.</string>
+    <string name="open"></string>
+    <string name="close"></string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main">main</string>
+</resources>

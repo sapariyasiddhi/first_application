@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Ttoranmal">
+
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/mystyle"
+        android:layout_width="370dp"
+        android:layout_height="555dp"
+
+        android:text="An offbeat and less-crowded hill station located in the Nandurbar district of Maharashtra, approx. 379 km away from Gujarat Hill Station
+Toranmal  is a home to unparalleled natural beauty. Offering exquisite views of the verdant grasslands, hills, lakes, forests and waterfalls,
+Toranmal is inhabited by a variety of flora and fauna. The place is also famous for its Gorakhnath Temple, which is a popular pilgrimage
+sites during the grand festival of Maha Shivratri. To experience the natural beauty of Toranmal at its best, visit this place during
+September to March but avoid visiting it during the night as it is quite foggy here after dark."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Mmatheran">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/mystyle"
+            android:layout_width="370dp"
+            android:layout_height="555dp"
+
+            android:text="Supporting a mild climate throughout the year, Matheran is one of the popular tourist attractions of Maharashtra. Located close to Mumbai,
+in Raigarh district of Maharashtra, this hill station is located at a height of 803m above sea level. To experience the spectacular natural
+beauty at its best, visit Matheran post monsoon, when the greens are in full bloom."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

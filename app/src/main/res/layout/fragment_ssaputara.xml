@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Ssaputara">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/mystyle"
+            android:layout_width="370dp"
+            android:layout_height="555dp"
+
+            android:text="Perched at an altitude of 1000 m, atop a plateau, in the forests of Dang District, Sahyadari Hills, Saputara or the abode of serpents is one
+ of the best-known hill stations in Gujarat. Situated amid lush backgrounds, Saputara enjoys a cool and pleasant climate throughout the year."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+

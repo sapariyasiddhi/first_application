@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".wilsonhill">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/mystyle"
+            android:layout_width="370dp"
+            android:layout_height="555dp"
+
+            android:text="A beautiful hill station, perched at an altitude of 750m above the sea level, this hill station is named after Lord Wilson, Mumbai’s former
+Governor from 1923 – 1928. Located in the Valsad district situated close to the Dharampur Tehsil, Wilson Hills stand as tall and impenetrable
+forests of the Pangarbari Wildlife Sanctuary."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
